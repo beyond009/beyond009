@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond009&langs_count=10&theme=tokyonight&layout=compact" alt="beyond009 :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beyond009&show_icons=true&theme=synthwave" alt="beyond009 :: Profile Stats" /></p>
 
