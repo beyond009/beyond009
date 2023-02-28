@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **beyond009/beyond009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +26,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beyond009&show_icons=true&theme=synthwave" alt="beyond009 :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://gfycat.com/equalpowerfulkoodoo" alt="ETH" height="300" width="500"></p>
